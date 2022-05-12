@@ -11,7 +11,7 @@ We'll be using the below tools:
 ## DLV1
 
 The [ `Dockerfile` ](https://github.com/SergioPinheiro/data-engineer-code-challenge/blob/main/Dockerfile) builds a image to resolve the first deliverable (dlv1) of the challenge.
-## Running
+### Running
 
 ``` shell
 docker build -t dlv1 .
