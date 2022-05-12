@@ -19,4 +19,4 @@ docker run dlv1
 ```
 
 ####  Obs
-The [ `docker-compose.yml` ](https://github.com/SergioPinheiro/data-engineer-code-challenge/blob/main/docker-compose.yml) file would be used to build the final deliver using, spark scala and airflow
+The [ `docker-compose.yml` ](https://github.com/SergioPinheiro/data-engineer-code-challenge/blob/main/docker-compose.yml) file would be used to build the final deliverable using, spark scala and airflow
